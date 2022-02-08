@@ -4,7 +4,7 @@ Sample Ruby on Rails app
 
 ## Prerequisites 
 
-1. Install [locales_service](https://gitlab.eng.vmware.com/jjuachon/g11n_locale_service_ruby) gem.
+1. Install [locales_service](https://github.com/jessiejuachon/g11n_locale_service_ruby) gem.
 
 2. Install Rails
 Refer to [Installing Rails](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails)  guide.
